@@ -60,7 +60,7 @@ All the calibre python code is in the ``calibre`` package. This package contains
 
     * db - The database back-end. See :ref:`db_api` for the interface to the calibre library. 
 
-    * content server: ``library.server`` is the calibre Content Server.
+    * content server: ``srv`` is the calibre Content Server.
 
     * gui2 - The Graphical User Interface. GUI initialization happens in ``gui2.main`` and ``gui2.ui``. The ebook-viewer is in ``gui2.viewer``. The ebook editor is in ``gui2.tweak_book``.
 
